@@ -1,7 +1,7 @@
 {
-    "full_name": "Shaurita Hutchins",
-    "email": "shutchins2@umc.edu",
-    "github_username": "sdhutchins",
+    "full_name": "Mike Cuoco",
+    "email": "mcuoco@ucsd.edu",
+    "github_username": "mikecuoco",
     "project_name": "Name of your computational biology project",
     "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '-') }}",
     "project_short_description": "A short description of your project",
